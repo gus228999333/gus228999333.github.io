@@ -1,8 +1,8 @@
-html>
+<html>
      <title>Yefemtsya Marka</title>
            <body>
                 <header style="background-color:black;">
-                <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D20519263579&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FRoblox%2F&tbnid=5a7reW65q5HK_M&vet=12ahUKEwj-kYGc6Y_7AhXNGHcKHT3yB2kQMygIegUIARDRAQ..i&docid=HFtQdyEVkiP-GM&w=2048&h=2048&q=%D1%80%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D1%81&ved=2ahUKEwj-kYGc6Y_7AhXNGHcKHT3yB2kQMygIegUIARDRAQ" height="50px"/>
+                <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D20519263579&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FRoblox%2F&tbnid=5a7reW65q5HK_M&vet=12ahUKEwj-kYGc6Y_7AhXNGHcKHT3yB2kQMygIegUIARDRAQ..i&docid=HFtQdyEVkiP-GM&w=2048&h=2048&q=%D1%80%D0%BE%D0%B1%D0%BB%D0%BE%D0%BA%D1%81&ved=2ahUKEwj-kYGc6Y_7AhXNGHcKHT3yB2kQMygIegUIARDRAQ" height="50px">
                 <a href="https://web.roblox.com/home" style="color:white">силка на гру</a>
                 </header>
                 <main style="background-color:lightgray">
